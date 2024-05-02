@@ -1,0 +1,31 @@
+
+.footer{
+    height: 367px;
+    margin-top: 200px;
+    padding: 75px;
+} 
+
+.fText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    /* width: 425px;
+height: 20px; */
+/* top: 6709px;
+left: 506px;
+gap: 0px;
+opacity: 0px; */
+
+}
+
+.fText p{
+    font-family: Helvetica Now Display;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+/* text-align: left; */
+color:#ffffff;
+margin-right: 30px;
+
+}

@@ -1,0 +1,77 @@
+.headerText{
+    width: 374px;
+height: 154px;
+/* top: 3585px;
+left: 155px;
+gap: 0px;
+opacity: 0px; */
+
+}
+
+.headerText h2{
+    font-family: Inter;
+font-size: 54px;
+font-weight: 600;
+line-height: 77.23px;
+text-align: left;
+color: #ffffff;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+    height: 140px;
+    margin-top: 200px;
+}
+
+.carauselBtn{
+    align-self: flex-end;
+}
+
+.testimonial{
+    height: 1000px;
+}
+
+/* .leftBtn{
+    width: 90.61px;
+height: 90.61px;
+border-radius: 50%;
+background-color: #e6e6e6;
+margin-right: 20px;
+}
+
+.rightBtn{
+    width: 90.61px;
+height: 90.61px;
+border-radius: 50%;
+background-color: #E3B748;
+;
+} */
+
+.testCard{
+    display: flex;
+    gap: 80px;
+    margin-top: 100px;
+}
+
+.teamMember{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.teamSection{
+  height: 650px;  
+  padding-top:100px ;
+}
+.teamSection h2{
+    text-align: center;
+    font-family: Inter;
+font-size: 54px;
+font-weight: 600;
+line-height: 77.23px;
+/* text-align: left; */
+color: #ffffff;
+margin-bottom: 50px;
+}

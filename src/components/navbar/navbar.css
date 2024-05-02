@@ -1,0 +1,16 @@
+.header{
+    color: #FFFFFF !important;
+}
+.logo{
+    align-content: center;
+}
+.Contactbtn{
+    width: 172px;
+    height: 47px;
+    /* top: 53px;
+    left: 1116px; */
+    /* gap: 0px;
+    opacity: 0px; */
+    border: 2px solid #FFFFFF
+    
+}

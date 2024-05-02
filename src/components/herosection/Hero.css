@@ -1,0 +1,100 @@
+.hero{
+    height:700px;
+    
+}
+
+.leftHero{
+    padding-top: 100px;
+    height:600px;
+    width: 571px;
+    /* position: absolute; */
+/* height: 194px; */
+top: 250px;
+/* left: 156px;  */
+/* gap: 0px;
+opacity: 0px;  */
+
+}
+
+.leftHero h1{
+font-family: Inter;
+font-size: 66px;
+font-weight: 500;
+line-height: 97.37px;
+text-align: left;
+color:white;
+}
+.subText{
+font-family: Inter;
+font-size: 66px;
+font-weight: 700;
+line-height: 97.37px;
+text-align: left;
+margin-left: 10px;
+color: #ffffff;
+
+
+}
+
+.heroPara{
+    width: 560px;
+height: 99px;
+top: 480px;
+left: 158px;
+gap: 0px;
+opacity: 0.3px;
+font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 29.25px;
+text-align: left;
+/* color: #FFFFFF; */
+
+}
+.emailImg{
+    position: absolute;
+    top: 26px;
+    left: 19px;
+    opacity: 0.5;
+}
+.email{
+    position: relative;
+
+}
+.emailSearch{
+width: 438px;
+height: 74px;
+top: 615px;
+left: 154px;
+/* gap: 0px; */
+border-radius: 43px;
+opacity: 0.1 !important;
+
+}
+::placeholder{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+/* text-align: center; */
+
+    padding-left: 45px;
+    color: gray !important;
+    /* opacity: 0.5; */
+}
+.emailButton{
+width: 137px;
+height: 62px;
+top: 6px;
+left: 297px;
+/* gap: 0px; */
+border-radius: 43px;
+/* opacity: 0px; */
+background: #E3B748;
+position: absolute;
+
+
+}
+.rightHero{
+    height:600px;
+}
